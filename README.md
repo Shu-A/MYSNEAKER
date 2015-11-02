@@ -4,15 +4,11 @@
 
 特にイエロークラデーションは最高。
 
-![Air Max 95 イエローグラデ](airmax95/airmax95_01.jpg)
-
-![My Air Max 95](airmax95/airmax95_02.jpg)
+<img src="airmax95/airmax95_01.jpg" width="50%" height="50%"/><img src="airmax95/airmax95_02.jpg" width="50%" height="50%"/>
 
 ## Reebok - Insta Pump fury
 ポンプを使ってフィットさせるシステムがかっこいいしハイテク！
 
 これ履いてる女子ヤバい。
 
-![Insta Pump Fury](instapumpfury/instapumpfury_01.jpg)
-
-![Insta Pump Fury](instapumpfury/instapumpfury_02.jpg)
+<img src="instapumpfury/instapumpfury_01.jpg" width="50%" height="50%"/><img src="instapumpfury/instapumpfury_02.jpg" width="50%" height="50%"/>
