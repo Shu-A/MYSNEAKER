@@ -52,3 +52,33 @@
 <img src="nb1300/nb1300_01.jpg" width="50%" height="50%"/>
 
 <img src="nb1300/nb1300_02.jpg" width="50%" height="50%"/>
+
+## Reebok - VENTILATOR
+
+<img src="ventilator/ventilator_01.jpg" width="50%" height="50%"/>
+
+<img src="ventilator/ventilator_02.jpg" width="50%" height="50%"/>
+
+## Reebok - Pump Omni
+
+<img src="pumpomni/pumpomni_01.jpg" width="50%" height="50%"/>
+
+<img src="pumpomni/pumpomni_02.jpg" width="50%" height="50%"/>
+
+## Nike - Air Max 1
+1987年に発売されたAir Max初号機。
+
+約30年前のスニーカーが今もカッコよく、売れているってすごい。
+
+<img src="airmax1/airmax1_01.jpg" width="50%" height="50%"/>
+
+<img src="airmax1/airmax1_02.jpg" width="50%" height="50%"/>
+
+## Nike - Air Max 90
+Air Maxの3作目。
+
+ある種一つの答えだと思う。
+
+<img src="airmax90/airmax90_01.jpg" width="50%" height="50%"/>
+
+<img src="airmax90/airmax90_02.jpg" width="50%" height="50%"/>
