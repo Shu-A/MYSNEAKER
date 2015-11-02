@@ -34,3 +34,21 @@
 <img src="eqt93/eqt93_01.jpg" width="50%" height="50%"/>
 
 <img src="eqt93/eqt93_02.jpg" width="50%" height="50%"/>
+
+## new balance - 996
+個人的には、スニーカの中で最も履きやすい。機能的にもデザイン的にも。
+
+何足も欲しい。
+
+<img src="nb996/nb996_01.jpg" width="50%" height="50%"/>
+
+<img src="nb996/nb996_02.jpg" width="50%" height="50%"/>
+
+## new balance - 1300
+云わずとしれた、ラルフ・ローレンが「雲の上を歩いているようだ」と絶賛した伝説の名品スニーカー。
+
+スニーカーのロールスロイスですね。
+
+<img src="nb1300/nb1300_01.jpg" width="50%" height="50%"/>
+
+<img src="nb1300/nb1300_02.jpg" width="50%" height="50%"/>
