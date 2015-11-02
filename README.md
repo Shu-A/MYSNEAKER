@@ -82,3 +82,12 @@ Air Maxの3作目。
 <img src="airmax90/airmax90_01.jpg" width="50%" height="50%"/>
 
 <img src="airmax90/airmax90_02.jpg" width="50%" height="50%"/>
+
+## Nike - Air Jordan 5
+かのスラムダンクの流川楓が履いていたバスケットシューズ。
+
+リアルにスラムダンク読んでいた頃は知りませんでした。
+
+<img src="airjordan5/airjordan5_01.jpg" width="50%" height="50%"/>
+
+<img src="airjordan5/airjordan5_02.jpg" width="50%" height="50%"/>
