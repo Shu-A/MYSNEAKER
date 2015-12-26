@@ -8,14 +8,18 @@
 
 <img src="airmax95/airmax95_02.jpg" width="50%" height="50%"/>
 
+<img src="airmax95/airmax95_03.jpg" width="50%" height="50%"/>
+
 ## Reebok - Insta Pump fury
 ポンプを使ってフィットさせるシステムがかっこいいしハイテク！
 
-これ履いてる女子ヤバい。
+男子女子どっちでもいけますな。
 
 <img src="instapumpfury/instapumpfury_01.jpg" width="50%" height="50%"/>
 
 <img src="instapumpfury/instapumpfury_02.jpg" width="50%" height="50%"/>
+
+<img src="instapumpfury/instapumpfury_03.jpg" width="50%" height="50%"/>
 
 ## PUMA - Disk Blaze
 こちらはダイヤルを回してフィットさせる！Pump furyと並んでレース(靴紐)のないタイプのスニーカ代表作。
@@ -25,6 +29,8 @@
 <img src="diskblaze/diskblaze_01.jpg" width="50%" height="50%"/>
 
 <img src="diskblaze/diskblaze_02.jpg" width="50%" height="50%"/>
+
+<img src="diskblaze/diskblaze_03.jpg" width="50%" height="50%"/>
 
 ## ADIDAS - Equipment(EQT) Running Support 93
 ランニングシューズの中ではトップクラスのビジュアルなんではないでしょうか。
